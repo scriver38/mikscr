@@ -1,9 +1,20 @@
-#EXTM3U
-#EXTINF:-15,DIRETTV SPT
-http://192.240.105.90:25461/live/skokolopolo/2s3avt9koa45/153.m3u8?token=HxENBBFREl5GBwUCBlMAVwZTWAsHU1RaBVUPUw1VAVddB1ZVBAAIXQISGxJCRRMAAgs+WwJHWAgGVxoVTRJcQDtaAUdYGwRGSBJDWVxUQ19TSkNCDwFAAxFVBgAIUhseRlYdEQdLXgUIb1NVR1gCAEFcD0cKCU4bXAppU10MWFwAEV9HUhscRg1DRxILEy4XAggGV0YgEUlSA1hSGDIXc0pmS0dOG1INEEJWRFQTW0dRUVMBRElAWlwRWENKGBsIRnY2R04bVRwQVVlDWF4PR1lEDAETXUAVEQ1FaEoESkYWVgQIB0sSXkYAFRwTXAAdPAUOXAgAAU1aC1hEGlsbAkYfRwgNV1kQC0JoQFhVQ19BVFYKVVFARA==
-#EXTM3U
-#EXTINF:-16,DRCTV2
-http://192.240.105.90:25461/live/sRecablegratisdottv/4VIrhLpbSc/6.m3u8?token=HxENBBFREl5GUlUHUwlXB1cDB1AHUVAOVVxUBwBZWgVdBQABVwpTXQISGxJCRRMAAgs+WwJHWA8fRkNEXRNmWwARX0dUGxxGEFlaVRMLUUlBFghWRF9ACAJVAhUUQ1xKEFYXCwNVbwABRl5TVBNbCxYKDR5ECgxmVwFbVlYFGwhGA0dJQFBDFEYKFX9DUA8CBkYkQRYEBVdWRGUZeU9sHEYfRwcLTUIFEFUVChMAVFRRRE0QBQoXV0cWTxUCQ3xhRh9HABpNVQoXWVheEwtDCFATWRBKRwtKbBZTREwTXFMJVhdHWBsARkgSWlFJbgIKDQgEURIMDVdARgwVCEMVEAlcCwwWVkI7FFlTEgsTVVFaVUNP
-#EXTM3U
-#EXTINF:-17,DRTV PLUS
-http://192.240.105.90:25461/live/suArrebacasa134654/5fZf3S9yBL7/152.m3u8?token=HxENBBFREl5GBQFWBwkDA1QFUQIHB1ZfUgAOAQtSDQVWBlxRVVsEXQYSGxJCRRMAAgs+WwJHWAgGVhoVTRJcQDtaAUdYGwdGSBJDWVxUQ19TSkNCDwFAAxFWBwULQxUQAUsRABBXUQg7VFJGWFIER1kIFF4KSUBWXTtSUlUAV1ZGCUdVQBUSDRdAFQoTfhMEDQEEEiMWElhUClMXa094HDEdR0lAW1kQFlFDVRMLQ1ZTUlkQSkcBVkYKQkVBQwMQIWBHSUBcSBABXkRZXl9DX0ELUkdeR04bWhdpRV0STUABUggAEBsKRlQSGxJcUBk6AAkPXAMGFlBcCkUVAkMJEEgRCAoMUEQLFm9HWVUTW0dQUFEFVUcf
+#EXTINF:0 group-title="DC Dis Columbia",CTN Sat - NTV - Nationwide TV - DC Dis Columbia
+rtmp://rtmp.ottdemo.rrsat.com:1935/ctntv/ctntv1
+#EXTINF:0 group-title="DC Dis Columbia",DrTV - NTV - Nationwide TV - DC Dis Columbia
+http://j#EXTINF:0 group-title="DC Dis Columbia",JUCE TV - NTV - Nationwide TV - DC Dis Columbia
+http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8
+-live-1/smil:DRTV.smil/playlist.m3u8#EXTINF:0 group-title="FL Florida",WTGL Good Life 45 - 46 DT - Orlando - FL Florida
+http://fss29.streamhoster.com/lv_goodlife45f1/broadcast1/playlist.m3u8
+#EXTINF:0 group-title="FL Florida",WHBR CTN33 - 34 DT - Pensacola - FL Florida
+http://whbr6922.srfms.com:2125/live/livestream/playlist.m3u8#EXTINF:0 group-title="FL Florida",HSN - NTV - Saint Petersburg - FL Florida
+rtmp://hsn.mpl.miisolutions.net/hsn-live01/mp4:420p500kB31#EXTINF:0 group-title="VA Virginia",CBN TV - NTV - Virginia Beach - VA Virginia
+http://brightcove03-f.akamaihd.net/iptv1_1_900@50919
+#EXTINF:0 group-title="VA Virginia",CBN TV Español - NTV - Virginia Beach - VA Virginia
+http://brightcove03-f.akamaihd.net/iptv2_1_900@50919
+#EXTINF:0 group-title="VA Virginia",CBN TV News - NTV - Virginia Beach - VA Virginia
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/master.m3u8
+#EXTINF:0 group-title="TX Texas",KDTN Daystar 2 - 43 DT - Dallas - TX Texas
+http://brightcove03-f.akamaihd.net/daystar_HD_720@112478
+ 
+ 
+http://80.80.160.168/live/9/live.m3u8
